@@ -45,7 +45,11 @@ CREATE TABLE user(
 - 采用新技术框架，springboot，mybatis等重构代码，并实现前后端分离
 
 ## 项目展示
+![系统架构图.png](https://s2.loli.net/2022/04/15/InC9RDKdXfEPgOr.png)
+
 ![登陆界面](https://i.imgur.com/yv5EngR.png)
+
+![文件编辑.png](https://s2.loli.net/2022/04/15/LD8THKweMA3xsXa.png)
 
 ![主页1](https://i.imgur.com/VcjBCzJ.png)
 
