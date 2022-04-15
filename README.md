@@ -14,6 +14,7 @@ HDFS网盘，用户注册登录后可以将数据文件保存到云端的一种�
 
 
 ## 数据库格式
+~~~shell
 CREATE TABLE user(
     id BIGINT NOT NULL AUTO_INCREMENT,
     username VARCHAR(100) NOT NULL,
@@ -21,7 +22,7 @@ CREATE TABLE user(
     password VARCHAR(100) NOT NULL,                  
     PRIMARY KEY(id)
 )ENGINE = InnoDB  DEFAULT CHARSET = utf8;
-
+~~~
 
 ## 涉及技术
 - struts2框架
