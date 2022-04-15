@@ -52,5 +52,5 @@ CREATE TABLE user(
 ![主页2](https://i.imgur.com/mAMWacg.png)
 
 # 正式发行版本下载
-[releases v1.0](https://github.com/kaka-two/HDFS-Netdisc.git)
+[releases v1.0](https://github.com/kaka-two/HDFS-Netdisc/archive/refs/heads/master.zip)
 
