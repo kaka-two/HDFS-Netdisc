@@ -45,15 +45,20 @@ CREATE TABLE user(
 - 采用新技术框架，springboot，mybatis等重构代码，并实现前后端分离
 
 ## 项目展示
+
+系统架构图：
 ![系统架构图.png](https://s2.loli.net/2022/04/15/InC9RDKdXfEPgOr.png)
 
-![登陆界面](https://i.imgur.com/yv5EngR.png)
+登录页面：
+![登录界面.png](https://s2.loli.net/2022/04/15/maC1OGbYl3qycKF.png)
 
-![文件编辑.png](https://s2.loli.net/2022/04/15/LD8THKweMA3xsXa.png)
+主页：
+![主页.png](https://s2.loli.net/2022/04/15/okx821BPmFIfjTg.png)
 
-![主页1](https://i.imgur.com/VcjBCzJ.png)
+文件编辑页面：
+![编辑.png](https://s2.loli.net/2022/04/15/cu5HAXDb9j46fSn.png)
 
-![主页2](https://i.imgur.com/mAMWacg.png)
+
 
 # 正式发行版本下载
 [releases v1.0](https://github.com/kaka-two/HDFS-Netdisc/archive/refs/heads/master.zip)
